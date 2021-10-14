@@ -7,7 +7,7 @@
             <div class="card">
                 <div class="card-body">
                     <h4 class="box-title">
-                        Daftar Foto Barang
+                        Daftar Foto Barang-Barang
                     </h4>
                 </div>
                 <div class="card-body--">
